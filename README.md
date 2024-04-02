@@ -13,7 +13,7 @@ Current student, future engineer and artist - but always a tea enthusiast.
   const currentListens = [
     "baddecisions_BadOmens.mp4",
     "somebody_Jungkook.mp4",
-    "wildflowerandbarley_Hozier_AllisonRussell.mp4",
+    "dejavu_txt.mp4",
     "beyondthestars_UriahSee.mp4"
   ]
   ```
