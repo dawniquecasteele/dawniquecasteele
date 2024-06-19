@@ -1,19 +1,19 @@
 ### Hi! My name is Dawniqueca (daw-nee-ca) 👋
 
-Current student, future engineer and artist - but always a tea enthusiast.
+Current student, working artist and engineer. I'm just a girl who believes in the power of STEAM !!! >:) 
 
 - ⚙️ Recent Files: `.js`,  `.html`,  `.css`,  `.fig`,  `.psd`,  `.ma`
   
-- 🌱 Web History: *C++ resources*, *Blender donut tutorial*, *elementary Mandarin*
+- 🌱 Web History: *C++ resources*, *Blender donut tutorial*, *elementary Mandarin*, *Is 4 cups of tea a day healthy?*
   
-- 💬 Chat w/ me about **web development**, **interaction design**, **animation**, and **game development**
+- 💬 Chat w/ me about **interaction design**, **animation**, **game development**, and **web development**
 
 🎧
   ```sh
   const currentListens = [
     "baddecisions_BadOmens.mp4",
     "somebody_Jungkook.mp4",
-    "dejavu_txt.mp4",
+    "yourlove(dejavu)_GlassAnimals.mp4",
     "beyondthestars_UriahSee.mp4"
   ]
   ```
@@ -21,8 +21,7 @@ Current student, future engineer and artist - but always a tea enthusiast.
 ```sh
 const currentReads = [
   "atomicHabits_JamesClear.epub",
-  "heavenOfficialsBlessing_V1_MXTX.epub",
-  "thisWovenKingdom_V1_TaherehMafi.epub"
+  "heavenOfficialsBlessing_V2_MXTX.epub",
 ]
 ```
 
