@@ -1,6 +1,6 @@
 ### Hi! My name is Dawniqueca (daw-nee-ca) 👋
 
-Current student, working artist and engineer. I'm just a girl who believes in the power of STEAM !!! >:) 
+Current grad student, working artist and engineer.
 
 - ⚙️ Recent Files: `.js`,  `.html`,  `.css`,  `.fig`,  `.psd`,  `.ma`
   
@@ -13,7 +13,7 @@ Current student, working artist and engineer. I'm just a girl who believes in th
   const currentListens = [
     "baddecisions_BadOmens.mp4",
     "somebody_Jungkook.mp4",
-    "yourlove(dejavu)_GlassAnimals.mp4",
+    "gameboy_Rose.mp4",
     "beyondthestars_UriahSee.mp4"
   ]
   ```
@@ -21,7 +21,7 @@ Current student, working artist and engineer. I'm just a girl who believes in th
 ```sh
 const currentReads = [
   "atomicHabits_JamesClear.epub",
-  "heavenOfficialsBlessing_V2_MXTX.epub",
+  "yumiAndTheNightmarePainter_BrandonSanderson.epub",
 ]
 ```
 
